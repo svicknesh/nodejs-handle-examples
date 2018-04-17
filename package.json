@@ -1,0 +1,17 @@
+{
+  "name": "handle-example-codes",
+  "version": "1.0.0",
+  "description": "Example codes to manipulate Handle Records.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "handle"
+  ],
+  "author": "Vicknesh Suppramaniam <vicknesh.suppramaniam@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
